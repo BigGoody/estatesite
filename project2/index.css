@@ -1,0 +1,172 @@
+#background{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIrg_CcWkIqMv5WWm_2V7id2UmBJVBhIFhA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.links{
+    display: block;
+    width: 50px;
+    padding: 12px;
+    margin: 30px;
+    display: flex;
+    float: right;
+    margin-right: 253px;
+    position: relative;
+    bottom: 110px;
+
+}
+#link-1{
+    text-decoration: none;
+    display: block;
+    width: 15px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#link-1:hover{
+    font-weight: bold;
+    color: red;
+}
+
+#link-2{
+    text-decoration: none;
+    display: block;
+    width: 15px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#link-2:hover{
+    font-weight: bold;
+    color: red;
+}
+
+#link-3{
+    text-decoration: none;
+    display: block;
+    width: 15px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#link-3:hover{
+    font-weight: bold;
+    color: red;
+}
+
+#link-4{
+    text-decoration: none;
+    display: block;
+    width: 15px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#link-4:hover{
+    font-weight: bold;
+    color: red;
+}
+    
+h1{
+    padding-left: 20px; padding-top: 20px; padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;background-color: black;
+    color: white;
+}
+
+#home{
+    background-color: rgb(167, 167, 221);
+    margin-left: 70px; margin-right: 80px; margin-top: 120px; margin-bottom: 60px;
+    padding-left: 245px;padding-top: 10px; padding-bottom: 10px;
+    text-align: center;
+    word-spacing: 1px;
+    border-radius: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    background: -moz-linear-gradient(top, rgb(167, 167, 221) 0%, rgb(241, 241, 154) 100%);
+    background: -webkit-linear-gradient(top, rgb(167, 167, 221) 0%, rgb(241, 241, 154) 100%);
+}
+#img{
+    margin-top: 60px; margin-left: 50px; margin-bottom: 20px;
+    height: 350px;
+    border: 8px solid rgb(219, 219, 163);
+}
+
+#write{
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 2px;
+    line-height: 1cm;
+    font-size: larger;
+    font-weight: 500;
+    margin-left: 40px; margin-right: 40px; margin-top: 80px;
+    font-weight: bold;
+    color: white;
+}
+
+.image{
+    display: flex;
+}
+
+hr{
+    margin-top: 100px; margin-bottom: 130px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 8px solid rgb(167, 167, 221)
+}
+
+.houses img{
+    border: 8px solid rgb(167, 167, 221);
+}
+
+.house-2 img{
+    margin-left: 20px;
+}
+
+.houses{
+    display: flex;
+    padding-left: 100px;
+}
+
+.houses h2{
+    font-size: larger;
+    margin-left: 90px; margin-top: 5px;
+    color: blue
+}
+
+.houses p{
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 2px;
+    line-height: 1cm;
+    font-size: large;
+    font-weight: bold;
+    margin-left:10px; margin-right: 40px; margin-top: 10px;
+}
+
+.houses h3{
+    margin-left: 30px;
+    background-color: blue;
+    margin-right: 150px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 20px; padding-top: 5px; padding-bottom: 5px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+
+
+
+
+   
